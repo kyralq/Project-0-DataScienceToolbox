@@ -13,6 +13,7 @@ The reading order of the content is:
 * 02-stroke-data-analysis.ipynb
 * 03-healthcare-data-analysis.ipynb
 * 04-covid-data-analysis.ipynb
+* 05-cardiovascular-disease-data-analysis.R
 
 ## Requirements
 
