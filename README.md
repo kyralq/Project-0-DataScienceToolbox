@@ -14,6 +14,7 @@ The reading order of the content is:
 * 03-healthcare-data-analysis.ipynb
 * 04-covid-data-analysis.ipynb
 * 05-cardiovascular-disease-data-analysis.R
+* O6-Wrapup.md
 
 ## Requirements
 
