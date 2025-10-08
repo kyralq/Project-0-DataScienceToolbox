@@ -10,13 +10,16 @@ All report content is in the directory Report/
 
 The reading order of the content is:
 * 01-medication-data-analysis.ipynb
-* 02-stroke-data-analysis-ipynb
+* 02-stroke-data-analysis.ipynb
+* 03-healthcare-data-analysis.ipynb
+* 04-covid-data-analysis.ipynb
 
 ## Requirements
 
 Requirements for each python code is given in individual requirements.txt files:
 * `medication-data-requirments.txt`
 * `stroke-data-requirments.txt`
+* `healthcare-and-covid-data-requirements.txt`
 
 To install these, in a virtual environment run:
 ```{sh}
