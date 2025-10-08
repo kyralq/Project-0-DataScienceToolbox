@@ -4,6 +4,8 @@
 
 Nadia Kusneraitis, Kyra Le Quelenec, Neva Fradd.
 
+Equal equity split between group.
+
 ## Reading order
 
 All report content is in the directory Report/
