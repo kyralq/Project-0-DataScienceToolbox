@@ -17,6 +17,8 @@ The reading order of the content is:
 
 ## Requirements
 
+Requirements for the Rmd files are given within each script.
+
 Requirements for each python code is given in individual requirements.txt files:
 * `medication-data-requirments.txt`
 * `stroke-data-requirments.txt`
